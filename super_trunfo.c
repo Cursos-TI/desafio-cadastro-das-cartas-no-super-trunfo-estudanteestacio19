@@ -5,7 +5,7 @@ int main (){
 printf("Desafio Super Trunfo!\n");
 
     int carta;
-    char estado [3];
+    char estado [20];
     char codigocarta [20];
     char nomecidade [20];
     int populacao;
